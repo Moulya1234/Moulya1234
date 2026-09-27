@@ -1,139 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Moulya%20Shree%20V&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20GenAI%20%7C%20Software%20Development&descAlignY=58&descSize=18" alt="Moulya Shree V profile banner" />
+# Moulya Shree V
 
-<a href="https://github.com/Moulya1234"><img src="https://img.shields.io/badge/GitHub-Moulya1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/moulya-shree-v-286228302/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:moulyashree82@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+### CSE & AI/ML Undergraduate
 
-<br />
+**AI • GenAI • Software Development • Building Intelligent & Scalable Applications**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Building+practical+AI-powered+applications;Exploring+RAG%2C+agents%2C+and+LLM+systems;Turning+ideas+into+useful+software" alt="Typing introduction" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I am a **Computer Science and AI/ML undergraduate** interested in building practical, reliable, and useful technology.
-
-- 🤖 Exploring **Generative AI, LLM applications, RAG, and Agentic AI**
-- 🧠 Interested in **machine learning, deep learning, NLP, and computer vision**
-- ⚙️ Building experience in **backend development, REST APIs, and scalable systems**
-- 📊 Learning **data engineering, PySpark, Databricks, ETL, and MLflow**
-- 🌱 Currently improving my skills in **LangChain, LangGraph, vector databases, and MCP**
-
-> My goal is to combine strong software engineering with applied AI to solve real-world problems.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages and Development
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql,flask,react,android,docker,git,github,postman" alt="Languages and development tools" />
-
-### AI, Data, and Cloud
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql" alt="AI and database technologies" />
-
-<br />
-
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `LLMs` `RAG` `Agentic AI` `LangChain` `LangGraph` `Qdrant` `PySpark` `Databricks` `ETL` `MLflow`
+[![GitHub](https://img.shields.io/badge/GitHub-Moulya1234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moulya1234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Resume](https://img.shields.io/badge/Resume-View-B91C1C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](YOUR_RESUME_URL)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I am a **Computer Science undergraduate** focused on **Artificial Intelligence and Machine Learning**, with an interest in building practical AI-powered applications and scalable software systems.
 
-### 🛡️ PrivacyGuard
+My current areas of interest include:
 
-Privacy-focused image and video anonymization project exploring dependable, context-aware protection of sensitive visual information.
+- Artificial Intelligence and Machine Learning
+- Generative AI, LLM applications, and RAG
+- Agentic AI and workflow orchestration
+- Computer Vision and privacy-preserving image/video processing
+- Backend development and REST APIs
+- Data engineering and distributed systems
+- System design and microservice-based applications
 
-`Computer Vision` `AI` `Privacy`
+> I aim to combine sound software engineering with applied AI to build systems that are useful, explainable, and dependable.
 
-</td>
-<td width="50%" valign="top">
+---
+
+## Technical Focus
+
+> Technologies below are included based on repository evidence and project information provided for this profile. Some are areas of active learning rather than claims of production experience.
+
+### Languages
+
+`Python` `C++` `C` `SQL` `JavaScript` `TypeScript` `Kotlin`
+
+### AI / ML / Computer Vision
+
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `TensorFlow` `PyTorch` `OpenCV` `XGBoost`
+
+### GenAI / Retrieval / Agents
+
+`LLMs` `RAG` `Agentic AI` `LangChain` `LlamaIndex` `ReAct Agents` `Qdrant` `Vector Databases` `Exa`
+
+### Backend / Data / Infrastructure
+
+`FastAPI` `Flask` `REST APIs` `MongoDB` `MySQL` `PostgreSQL` `Redis` `Kafka` `PySpark*` `Databricks*` `MLflow*`
+
+### Tools
+
+`Git` `GitHub` `Docker` `Docker Compose` `Nginx` `Postman` `MLflow*`
+
+\* **To verify:** PySpark, Databricks, and MLflow are included because they were specified as areas of interest/project context, but their implementation in a currently inspected repository was not verified.
+
+---
+
+## Featured Projects
+
+### 🛡️ PrivacyGuard — Social Media Privacy Guard
+
+**A privacy-focused framework for dependable, context-aware image and video anonymization.**
+
+- **Problem:** Reduce privacy exposure when sharing visual media by detecting and selectively protecting sensitive regions.
+- **Verified implementation:** Local image, live-camera, and video-processing pipelines; object and face detection; OCR-assisted sensitive-data detection; QR/barcode handling; selective blur, pixelation, and blackout; residual-risk reporting; transient processing without permanent image storage.
+- **Technologies:** Python, FastAPI, OpenCV, YOLO-compatible detection, YuNet, EasyOCR, JavaScript, Vite
+- **Repository:** [Major-Project-phase2](https://github.com/Moulya1234/Major-Project-phase2)
+- **Demo:** `[🎬 Add PrivacyGuard Demo GIF]`
+- **Architecture:** `[📐 Add PrivacyGuard architecture diagram]`
+
+> The implementation is located under `implementation/final-year-project-container/` in the repository.
+
+---
 
 ### 🤖 Agentic AI RAG
 
-An experimental retrieval-augmented AI system focused on intelligent retrieval, LLM workflows, and agent-oriented application design.
+A research workflow that separates information gathering from synthesis using dedicated research and analysis agents.
 
-<a href="https://github.com/Moulya1234/Agentic_Ai_RAG">🔗 View repository</a>
+- **RAG / retrieval:** Web search and content retrieval through Exa tools.
+- **Agents:** `Research Agent` gathers sources; `Analysis Agent` synthesizes findings using LlamaIndex `ReActAgent` implementations.
+- **Workflow:** A LlamaIndex workflow passes research output into a separate analysis phase and returns a structured final response.
+- **LLM / framework:** LlamaIndex, LLM abstractions, Cerebras LLM integration, OpenAI agent support
+- **Vector database:** **Not verified in this repository's inspected implementation.**
+- **Technologies:** Python, LlamaIndex, Exa, FastAPI, Uvicorn, WebSockets
+- **Repository:** [Agentic_Ai_RAG](https://github.com/Moulya1234/Agentic_Ai_RAG)
+- **Demo:** `[🎬 Add Agentic RAG Demo GIF]`
+- **Architecture:** `[📐 Add Agentic RAG architecture diagram]`
 
-`Python` `RAG` `LLMs` `Agents`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🌾 Smart Agriculture AI Platform
+
+A microservices-based precision agriculture platform for crop disease detection, AI-assisted treatment advice, irrigation recommendations, market prices, and notifications.
+
+- **Problem:** Bring multiple agriculture-related capabilities behind a coordinated backend platform.
+- **Verified architecture:** API gateway, disease detection, AI advisory/RAG, irrigation, market-price, and notification services.
+- **Technologies:** FastAPI, Python, Docker Compose, Nginx, PostgreSQL, Redis, Kafka, Qdrant, LangChain, MobileNetV2
+- **Repository:** [System_Design_AgriTech](https://github.com/Moulya1234/System_Design_AgriTech)
+- **Demo:** `[🎬 Add Smart Agriculture Demo GIF]`
+- **Architecture:** `[📐 Add microservices architecture diagram]`
+
+> **Note:** The inspected repository documents Qdrant/LangChain/Kafka and microservices. A Databricks Bronze/Silver/Gold pipeline, PySpark implementation, and MLflow tracking were not verified there and are intentionally not claimed as implemented features.
+
+---
 
 ### 📱 CampusNavPlus
 
-A mobile application project focused on campus navigation and location-aware user experiences.
+A React Native mobile application scaffold for a campus-navigation product concept, with Firebase application, authentication, and realtime-database dependencies present in the repository.
 
-<a href="https://github.com/Moulya1234/CampusNavPlus">🔗 View repository</a>
+- **Problem:** `[TODO: Describe the specific campus-navigation problem and completed functionality]`
+- **Verified technology:** React Native, TypeScript, Firebase App, Firebase Authentication, Firebase Realtime Database
+- **Repository:** [CampusNavPlus](https://github.com/Moulya1234/CampusNavPlus)
+- **Screenshot:** `[📱 Add CampusNavPlus screenshot]`
+- **Demo:** `[🎬 Add CampusNavPlus Demo GIF]`
 
-`Kotlin` `Android` `Mobile Development`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 System Design AgriTech
-
-A scalable agriculture technology system focused on data management, backend architecture, and REST APIs.
-
-<a href="https://github.com/Moulya1234/System_Design_AgriTech">🔗 View repository</a>
-
-`Python` `MySQL` `REST APIs` `System Design`
-
-</td>
-</tr>
-</table>
-
-### More projects
-
-- 🧠 [Pneumonia Detection System](https://github.com/Moulya1234/Pneumonia-Detection-system) — machine-learning project for medical image classification.
-- ♻️ [Garbage Classifier](https://github.com/Moulya1234/garbage-classifier) — image classification project for waste categorization.
-- ✉️ [Email Scheduler](https://github.com/Moulya1234/Email_scheduler) — application for scheduling email workflows.
-- 🧪 [AI Bootcamp](https://github.com/Moulya1234/AI_BOOTCAMP) — notebooks and experiments from AI/ML learning.
+> The current repository README is still the default React Native starter README; project functionality should be documented before making stronger product claims.
 
 ---
 
-## 📊 GitHub Activity
+### 📊 Aptitude Test & Learning App
 
-<div align="center">
+A full-stack aptitude practice and learning platform.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Moulya1234&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Moulya's GitHub statistics" />
-<img height="170" src="https://streak-stats.demolab.com?user=Moulya1234&hide_border=true&theme=transparent" alt="Moulya's GitHub streak" />
+- **Features:** Login, aptitude tests, user-progress tracking, performance analytics, and dashboard
+- **Technologies:** Python, Flask, MongoDB, JavaScript, REST APIs
+- **Repository:** `[TODO: Add verified GitHub repository URL]`
+- **Demo:** `[🎬 Add Application Demo GIF]`
 
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Moulya1234&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-
-</div>
+> The project information above was provided directly. Repository-level verification and a public repository URL are still pending.
 
 ---
 
-## 🐍 Contribution Journey
+### 🧩 Scalable AgriTech Platform
 
-<div align="center">
+A backend and system-design project for managing crop, farmer, and resource data in an agriculture-focused domain.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
-
-</div>
+- **Focus:** Backend architecture, service boundaries, database-backed data management, and API design
+- **Verified repository evidence:** Python-based repository with multiple service directories, database migrations, Docker Compose configuration, and API-oriented services
+- **Technologies:** Python, FastAPI, PostgreSQL, REST APIs, Docker, Docker Compose, system design
+- **Repository:** [System_Design_AgriTech](https://github.com/Moulya1234/System_Design_AgriTech)
+- **Demo:** `[🎬 Add AgriTech platform demo or API walkthrough]`
 
 ---
 
-## 🧭 Currently Learning
+## Other Projects
+
+- [AIDIP — Autonomous Insurance Decision Intelligence Platform](https://github.com/Moulya1234/AIDIP_PROJECT) — multi-agent insurance decision-support application with a FastAPI backend, React frontend, XGBoost model, SQLite persistence, and parallel analysis agents.
+- [Garbage Classifier](https://github.com/Moulya1234/garbage-classifier) — Python image-classification project with training and Random Forest application scripts.
+- [Pneumonia Detection System](https://github.com/Moulya1234/Pneumonia-Detection-system) — repository described as an engineering project; implementation details should be summarized after a README review.
+- [AI Bootcamp](https://github.com/Moulya1234/AI_BOOTCAMP) — Jupyter Notebook-based AI/ML learning repository.
+
+---
+
+## 🧠 Currently Learning
 
 ```text
 Generative AI
@@ -142,48 +166,88 @@ Generative AI
       ↓
      RAG
       ↓
- Agentic AI
+  Agentic AI
       ↓
-LangChain / LangGraph
+ LangChain / LangGraph
       ↓
- Vector Databases
+Vector Databases
       ↓
      MCP
 ```
 
 ---
 
-## 📈 My Developer Journey
+## Developer Journey
 
 ```text
-C / C++ ──┐
-          ├── Python ── Backend ── APIs ── Scalable Systems
-SQL ──────┘       │
-                  ├── Machine Learning ── Deep Learning
-                  ├── NLP ── LLMs ── RAG ── Agents
-                  └── Computer Vision ── Image Intelligence
+Programming
+     ↓
+Python / C++
+     ↓
+Backend Development
+     ↓
+Machine Learning
+     ↓
+Deep Learning
+     ↓
+Generative AI
+     ↓
+RAG
+     ↓
+Agentic AI
 ```
 
 ---
 
-## 📫 Let's Connect
-
-I am open to connecting with people interested in **AI/ML, GenAI, software engineering, backend systems, and meaningful technology projects**.
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/moulya-shree-v-286228302/">LinkedIn</a> ·
-<a href="mailto:moulyashree82@gmail.com">Email</a> ·
-<a href="https://github.com/Moulya1234">GitHub</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Moulya1234&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Moulya Shree V's GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=Moulya1234&hide_border=true&theme=transparent" alt="Moulya Shree V's GitHub contribution streak" />
 
-<br /><br />
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=Moulya1234&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moulya1234&bg_color=ffffff00&color=2563eb&line=06b6d4&point=1d4ed8&area=true&hide_border=true" alt="Moulya Shree V's contribution graph" />
 
-<br /><br />
+</div>
 
-⭐ Thanks for visiting my profile!
+> **Contribution snake:** `[TODO: Add the generated snake workflow and asset after verifying the action output URL]`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:1d4ed8,100:0f172a&section=footer" alt="Footer banner" />
+---
+
+## Contact
+
+- **LinkedIn:** [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
+- **Portfolio:** [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
+- **Resume:** [YOUR_RESUME_URL](YOUR_RESUME_URL)
+- **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+
+---
+
+## Profile Assets
+
+Recommended repository structure for verified media assets:
+
+```text
+assets/
+├── profile-banner.gif
+├── privacyguard-demo.gif
+├── agentic-rag-demo.gif
+├── campusnav-demo.gif
+├── aptitude-app-demo.gif
+└── architecture/
+    ├── privacyguard-architecture.png
+    ├── agentic-rag-architecture.png
+    └── agritech-architecture.png
+```
+
+Only add files after the corresponding demos or diagrams have been created and committed.
+
+---
+
+<div align="center">
+
+*Building practical AI systems with a software-engineering mindset.*
 
 </div>
